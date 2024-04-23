@@ -1,0 +1,14 @@
+.find-us-section {
+    text-align: center;
+    padding: 50px;
+}
+
+.map-container {
+    margin-top: 20px;
+}
+
+.address {
+    margin-top: 20px;
+    font-style: italic;
+    color: #666;
+}
